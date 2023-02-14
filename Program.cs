@@ -5,7 +5,6 @@ namespace HelloWorld
 {
     class Program
     {
-
         static void Assignment1()
         {
             string name = "Antti";
@@ -47,12 +46,63 @@ namespace HelloWorld
                  "It is " + hasPet + " that I have a pet" + "\n"
             );
         }
+
+        static void Assignment4()
+        {
+            string firstName = "Arup", lastName = " Karan";
+            string fullName = firstName + lastName;
+            Console.WriteLine(
+     "Before adding Last Name: " + firstName + "\n"
+);
+            Console.WriteLine(
+                 "After adding Last Name: " + fullName
+            );
+        }
+
+        static void Assignment5()
+        {
+            int order = 5;
+            Console.WriteLine($"Jere Lamberg the {order}th");
+        }
+
+        static void Assignment6()
+        {
+            int order = 101;
+            string s = order.ToString();
+            int lastDigit = s[s.Length - 1] - '0'; ; //convert char to digit
+            string ending = "";
+            if (lastDigit == 1)
+            {
+                ending = "st";
+                Console.WriteLine($"{order}{ending}");
+            }
+            else if (lastDigit == 2)
+            {
+                ending = "nd";
+                Console.WriteLine($"{order}{ending}");
+            }
+            else if (lastDigit == 3)
+            {
+                ending = "rd";
+                Console.WriteLine($"{order}{ending}");
+            }
+            else
+            {
+                ending = "th";
+                Console.WriteLine($"{order}{ending}");
+            }
+
+        }
+
+
         static void Main(string[] args)
         {
-            // Assignment1();
-            // Assignment2();
+            Assignment1();
+            Assignment2();
             Assignment3();
-
+            Assignment4();
+            Assignment5();
+            Assignment6();
         }
     }
 }
