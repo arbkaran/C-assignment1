@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\Karan\bin\Debug\net7.0\Karan.exe
+C:\Users\Karan\Desktop\Karan\bin\Debug\net7.0\Karan.deps.json
+C:\Users\Karan\Desktop\Karan\bin\Debug\net7.0\Karan.runtimeconfig.json
+C:\Users\Karan\Desktop\Karan\bin\Debug\net7.0\Karan.dll
+C:\Users\Karan\Desktop\Karan\bin\Debug\net7.0\Karan.pdb
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.csproj.AssemblyReference.cache
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.AssemblyInfo.cs
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.dll
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\refint\Karan.dll
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.pdb
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\Karan.genruntimeconfig.cache
+C:\Users\Karan\Desktop\Karan\obj\Debug\net7.0\ref\Karan.dll
